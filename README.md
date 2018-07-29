@@ -1,19 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to babywade.github.io
 
 You can use the [editor on GitHub](https://github.com/babywade/babywade.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+最开始搭建个人blog的时候是从0开始写的空html页面，遇到了各种尴尬，这次试用一下自带theme；
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+静态页面用markdown排版；
 
 ```markdown
-Syntax highlighted code block
+markdown 编辑块
 
-# Header 1
-## Header 2
-### Header 3
+# xiaofei 的自营地
+## EE master，对高性能计算，数据结构，编译器，操作系统，计算机仿真，控制论有浓厚兴趣，业余搞一点web
+### xjtu，sdu
 
 - Bulleted
 - List
