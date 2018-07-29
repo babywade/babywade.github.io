@@ -13,7 +13,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 markdown 编辑块
 
 # xiaofei 的自营地
-## EE master，对高性能计算，数据结构，编译器，操作系统，计算机仿真，控制论有浓厚兴趣，业余搞一点web
+## EE master，对高性能计算，数据结构，编译器，操作系统，
+## 计算机仿真，控制论有浓厚兴趣，业余搞一点web
 ### xjtu，sdu
 
 - Bulleted
